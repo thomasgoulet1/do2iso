@@ -1,2 +1,2 @@
 build: 
-	sudo mkarchiso -v -w /tmp -o ./build ./
+	mkarchiso -v -w /tmp -o ./build ./
