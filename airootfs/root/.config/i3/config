@@ -195,3 +195,4 @@ exec --no-startup-id feh --bg-scale /usr/share/assets/backgrounds/blue_dark.png
 
 #Run in the middle of the page#
 exec i3-sensible-terminal -e cargo run
+
