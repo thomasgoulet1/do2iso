@@ -1,0 +1,1 @@
+xfce4-terminal -e "zsh -c 'cd /root/.yarp ; ./target/release/rs-yarp'" -T "YARP"
