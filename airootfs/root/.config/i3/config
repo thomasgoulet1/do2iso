@@ -1,0 +1,12 @@
+
+exec picom
+
+for_window [title="Welcome"] floating enable
+for_window [title="Welcome"] move position center
+
+bar {
+    i3bar_command i3status
+    hidden_state hide
+}
+
+exec /root/.install.sh
